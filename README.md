@@ -1,2 +1,2 @@
-# proyectofinal
-Proyecto final de bootcamp
+# finanproject
+proyecto final del bootcamp de ironhack
